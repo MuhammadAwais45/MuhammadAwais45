@@ -42,11 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadawais45&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadawais45&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
 
 ---
 
