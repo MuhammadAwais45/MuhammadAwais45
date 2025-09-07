@@ -12,7 +12,7 @@
 
 📫 **How to reach me:**  
 - Email: **wwwawaisraja053@gmail.com**  
-- LinkedIn: [Muhammad Awais](www.linkedin.com/in/muhammad-awais-a6b322371)  
+- LinkedIn: [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-a6b322371/)  
 - GitHub: [MuhammadAwais45](https://github.com/MuhammadAwais45)  
 
 ---
