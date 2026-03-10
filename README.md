@@ -1,4 +1,5 @@
-![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
+![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Friends!;I'm+Muhammad+Awais;Dreamer+and+Doer;Sophomore+Computer+Science+Student;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
