@@ -1,6 +1,6 @@
-![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)<br>
+![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Friends!;I'm+Muhammad+Awais;Dreamer+and+Doer;Sophomore+Computer+Science+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Friends!;I'm+Muhammad+Awais;Machine Learning Engineer;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">AI Developer | NLP & LLM Expert | Machine Learning & Deep Learning Practitioner | Full-Stack Python Developer</h3>
