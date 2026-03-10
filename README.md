@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Friends!;I'm+Muhammad+Awais;Dreamer+and+Doer;Sophomore+Computer+Science+Student;Passionate+About+Web+Development;Open-Source+Contributor;AI+and+Machine+Learning+Aspirant;Coding+is+My+Superpower;Embracing+Challenges;Knowledge+Grows+When+Shared;The+Journey+is+the+Reward;Keep+Building,+Keep+Learning!)](https://git.io/typing-svg)
+![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Friends!;I'm+Muhammad+Awais;Dreamer+and+Doer;Sophomore+Computer+Science+Student;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">AI Developer | NLP & LLM Expert | Machine Learning & Deep Learning Practitioner | Full-Stack Python Developer</h3>
