@@ -56,15 +56,7 @@
 
 ---
 
-### 💼 Experience  
-**Machine Learning Engineer – DevelopersHub Corporation©**  
-📅 July 2025 – Present  
 
-🔹 Building & evaluating ML models with **Scikit-Learn, Pandas**  
-🔹 Applying **regression & classification** algorithms  
-🔹 Performing **data cleaning, feature engineering, and model tuning**  
-🔹 Collaborating with senior developers & data scientists  
-🔹 Using **Jupyter Notebook & Git** for development and collaboration  
 
 ---
 
